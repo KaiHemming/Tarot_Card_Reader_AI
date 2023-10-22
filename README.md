@@ -1,9 +1,9 @@
 # tarot_website
 
 A Flutter project created for the 2023 Halloween Stacshack Hackathon. Made using OpenAI's API.
-![Alt text](screenshots\home.png?raw=true "Main page")
-![Alt text](screenshots\midreading.png "Select Cards")
-![Alt text](screenshots\reading.png "Example Reading")
+![Main Page Image](/../<branch name>/screenshots/home.png?raw=true "Main Page")
+![Select Cards Image](/../<branch name>/screenshots/midreading.png "Select Cards")
+![Example Reading Image](/../<branch name>/screenshots/reading.png "Example Reading")
 
 ## How To Run
 
