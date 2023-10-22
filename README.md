@@ -1,9 +1,13 @@
 # tarot_website
 
 A Flutter project created for the 2023 Halloween Stacshack Hackathon. Made using OpenAI's API.
-![Main Page Image](https://github.com/KaiHemming/TarotCardReaderAI/tree/main/screenshots/home.png?raw=true "Main Page")
-![Select Cards Image](https://github.com/KaiHemming/TarotCardReaderAI/tree/main/screenshots/midreading.png "Select Cards")
-![Example Reading Image](https://github.com/KaiHemming/TarotCardReaderAI/tree/main/screenshots/reading.png "Example Reading")
+
+![ScreenShot](https://github.com/KaiHemming/TarotCardReaderAI/tree/main/screenshots/home.png?raw=true "Main Page")
+
+![ScreenShot](https://github.com/KaiHemming/TarotCardReaderAI/tree/main/screenshots/midreading.png "Select Cards")
+
+![ScreenShot](https://github.com/KaiHemming/TarotCardReaderAI/tree/main/screenshots/reading.png "Example Reading")
+
 
 ## How To Run
 
